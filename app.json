@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "parking_ticket",
+    "slug": "parking_ticket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "parking_ticket"
+}
